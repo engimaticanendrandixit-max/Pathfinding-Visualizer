@@ -1,4 +1,6 @@
+
 # Pathfinding Visualizer
+<img width="1078" height="725" alt="astar" src="https://github.com/user-attachments/assets/d92ce214-2f41-439c-8e46-00d68a2d100d" />
 
 An interactive pathfinding visualizer built using Python and Pygame. This project demonstrates how popular graph traversal and shortest-path algorithms work by animating their execution on a grid.
 
